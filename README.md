@@ -1,67 +1,33 @@
-# Getting Started with Create React App
+# 🚀 Anuriti Gupta - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio! This project showcases my work, skills, and experience as a Software Engineer specializing in AI/ML, front-end development, and UI/UX design.
 
-## Available Scripts
+## 🌟 About Me
+I am a **Software Engineer** with industry experience at **Tata Technologies**, serving as the **Chairperson of ACM BBDNITM** and leading multiple AI-driven projects and technical initiatives. Passionate about **machine learning, front-end development, and UX/UI design**, I strive to build intuitive and impactful solutions.
 
-In the project directory, you can run:
+## 📌 Features
+- **Personalized Hero Section** - Introduction and background.
+- **Work Experience** - Showcasing my industry experience and projects.
+- **Projects** - A collection of my AI/ML, front-end, and research projects.
+- **Skills** - Technologies and tools I specialize in.
+- **Education** - My academic journey.
+- **Responsive Design** - Fully optimized for different screen sizes.
 
-### `npm start`
+## 🛠️ Tech Stack
+- **Frontend**: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, Express.js, Perl
+- **AI/ML**: Python, TensorFlow, Groq API, FAISS
+- **Database**: MySQL, Firebase
+- **Tools & Platforms**: Git, GitHub, Anaconda, Next.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📬 Contact Me
+- **Portfolio**: [anuriti-portfolio.com](#)
+- **LinkedIn**: [linkedin.com/in/anuriti-gupta](#)
+- **GitHub**: [github.com/AnuritiGupta](#)
+- **Email**: anuritigupta@example.com
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
+Feel free to contribute, open issues, or connect with me for collaborations! 🚀
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
