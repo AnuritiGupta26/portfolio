@@ -95,7 +95,6 @@ function Footer() {
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           Made with ❤️ by Anuriti Gupta
