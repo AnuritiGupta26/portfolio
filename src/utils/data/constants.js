@@ -334,8 +334,9 @@ export const Bio = {
       category: "machine learning",
       github: "https://github.com/AnuritiGupta26/ColdMail-Pro",
     },
+    
     {
-      id: 3,
+      id: 2,
       title: "StockVision",
       date: "Dec 2024 - Dec 2024",
       description:
@@ -347,7 +348,7 @@ export const Bio = {
       github: "https://github.com/AnuritiGupta26/StockVision",
     },
     {
-      id: 4,
+      id: 3,
       title: "Caliberation Tool",
       date: "July 2024 - Sept 2024",
       description:
@@ -358,7 +359,7 @@ export const Bio = {
       category: "web app",
     },
     {
-      id: 5,
+      id: 10,
       title: "Driver Safe",
       date: "July 2024 - Sept 2024",
       description:
@@ -369,7 +370,7 @@ export const Bio = {
       category: "web app",
     },
     {
-      id: 6,
+      id: 4,
       title: "MovieSearchSite",
       date: "Jul 2021",
       description:
@@ -381,7 +382,7 @@ export const Bio = {
       github: "https://github.com/AnuritiGupta26/MovieSearchSite",
     },
     {
-      id: 7,
+      id: 5,
       title: "Vendor and business supplier pass system",
       date: "July 2024 - Sept 2024",
       description:
