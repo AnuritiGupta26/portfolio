@@ -379,6 +379,18 @@ export const Bio = {
       tags: ["Perl", "HTML", "CSS", "Javascript", "Mysql", "Ajax", "Bootstrap"],
       category: "web app",
     },
-    
+    {
+      id: 6,
+      title: "ColdMail-Pro",
+      date: "March 2025",
+      description:
+        "A generative AI tool that automatically creates personalized cold emails for businesses seeking contract-based clients. Using the latest Llama model, it streamlines outreach for companies like HCL, Microsoft, and Google to clients such as Nike and Adidas, simplifying the process of offering contract-based employees.",
+      image:
+        "https://github.com/user-attachments/assets/7ec6fb3c-61fc-45f8-b6f6-7c058b6472f2",
+      tags: ["GEN-AI", "llama", "Chromadb", "Pandas", "Langchain", "Groq-Cloud"],
+      category: "machine learning",
+      github: "https://github.com/AnuritiGupta26/ColdMail-Pro",
+     
+    },
   ];
   
