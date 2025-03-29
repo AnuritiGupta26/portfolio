@@ -217,7 +217,7 @@ export const Bio = {
           "Ajax",
           "Bootstrap",
         ],
-        doc: "https://drive.google.com/file/d/1kr20dea6PadQLwlX9EwMUQWUctULqVgx/view?usp=drive_link",
+        doc: "https://github.com/user-attachments/assets/9af37972-1448-424e-85b4-394465d0ee2f",
       },
     {
       id: 0,
@@ -390,7 +390,7 @@ export const Bio = {
       tags: ["GEN-AI", "llama", "Chromadb", "Pandas", "Langchain", "Groq-Cloud"],
       category: "machine learning",
       github: "https://github.com/AnuritiGupta26/ColdMail-Pro",
-     
+      webapp: "https://coldmail-pro-production-b581.up.railway.app/",
     },
   ];
   
